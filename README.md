@@ -1,2 +1,2 @@
 # volumio_rotary_encoder
-founded rotary encoder scripts(not tested)
+For details:https://volumio.org/forum/gpio-pins-control-volume-t2219.html
