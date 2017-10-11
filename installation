@@ -1,0 +1,7 @@
+Founded rotary encoder scripts(not tested).
+
+Make sure that you have python-gpio lib installed. 
+
+If not, can be downloaded here: http://sourceforge.net/projects/raspberry-gpio-python/files/raspbian-wheezy/python-rpi.gpio_0.5.8-1_armhf.deb and installed with  sudo dpkg -i python-rpi.gpio_0.5.8-1_armhf.deb (CHOOSE YOUR RASPBIAN VER.)  
+
+Then copy knob.py to /home/volumio/ ad add path in /etc/rc.local: python /home/volumio/kob.py &  
